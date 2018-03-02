@@ -1,6 +1,6 @@
-package com.playtika.cars_proposition_project.web;
+package com.playtika.carshopproposition.web;
 
-import com.playtika.cars_proposition_project.service.CarPropositionService;
+import com.playtika.carshopproposition.service.CarPropositionService;
 import com.playtika.carshopcommon.domain.Deal;
 import lombok.Data;
 import lombok.extern.slf4j.Slf4j;

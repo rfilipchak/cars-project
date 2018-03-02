@@ -1,4 +1,4 @@
-package com.playtika.cars_proposition_project.web;
+package com.playtika.carshopproposition.web;
 
 import lombok.extern.slf4j.Slf4j;
 import org.junit.Before;

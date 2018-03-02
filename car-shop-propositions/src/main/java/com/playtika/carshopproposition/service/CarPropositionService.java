@@ -1,4 +1,4 @@
-package com.playtika.cars_proposition_project.service;
+package com.playtika.carshopproposition.service;
 
 import com.playtika.carshopcommon.domain.Deal;
 

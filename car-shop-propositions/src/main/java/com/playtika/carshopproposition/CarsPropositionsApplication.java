@@ -1,4 +1,4 @@
-package com.playtika.cars_proposition_project;
+package com.playtika.carshopproposition;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

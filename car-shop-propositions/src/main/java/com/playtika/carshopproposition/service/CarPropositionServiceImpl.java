@@ -1,4 +1,4 @@
-package com.playtika.cars_proposition_project.service;
+package com.playtika.carshopproposition.service;
 
 import au.com.bytecode.opencsv.CSVReader;
 import com.playtika.carshop.client.CarClient;

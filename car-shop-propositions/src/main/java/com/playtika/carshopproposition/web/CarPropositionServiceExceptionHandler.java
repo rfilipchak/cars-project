@@ -1,4 +1,4 @@
-package com.playtika.cars_proposition_project.web;
+package com.playtika.carshopproposition.web;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.AllArgsConstructor;

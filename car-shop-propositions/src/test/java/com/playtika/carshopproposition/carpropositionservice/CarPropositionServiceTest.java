@@ -1,7 +1,7 @@
-package com.playtika.cars_proposition_project.carpropositionservice;
+package com.playtika.carshopproposition.carpropositionservice;
 
-import com.playtika.cars_proposition_project.service.CarPropositionService;
-import com.playtika.cars_proposition_project.service.CarPropositionServiceImpl;
+import com.playtika.carshopproposition.service.CarPropositionService;
+import com.playtika.carshopproposition.service.CarPropositionServiceImpl;
 import com.playtika.carshop.client.CarClient;
 import com.playtika.carshopcommon.dealstatus.DealStatus;
 import com.playtika.carshopcommon.domain.Car;
