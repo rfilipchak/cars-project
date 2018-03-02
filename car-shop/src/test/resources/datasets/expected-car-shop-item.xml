@@ -1,0 +1,5 @@
+<dataset>
+    <CARS id="1" registration="AA-0177-BH" brand="BMW" color="black" car_year="1980"/>
+    <PERSON id="1" contact="contact"/>
+    <CARS_SHOP id="1" car_id="1" price="2000" person_id="1"/>
+</dataset>

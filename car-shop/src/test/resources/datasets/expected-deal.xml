@@ -1,0 +1,10 @@
+<dataset>
+    <cars id="1" registration="AA-0177-BH" brand="BMW" color="black" car_year="2017"/>
+    <person id="1" contact="contact2"/>
+    <cars id="2" registration="AA-0188-BH" brand="Ford" color="black" car_year="2017"/>
+    <person id="2" contact="contact1"/>
+    <CARS_SHOP id="1" car_id="1" price="2000" person_id="1"/>
+    <CARS_SHOP id="2" car_id="2" price="3000" person_id="2"/>
+    <DEALS id="1" car_for_sale_id="1" person_id="2" buyer_price="2000" deal_status="ACCEPTED"/>
+    <DEALS id="2" car_for_sale_id="1" person_id="2" buyer_price="2010" deal_status="ACTIVE"/>
+</dataset>
